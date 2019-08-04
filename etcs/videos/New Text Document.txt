@@ -1,0 +1,1 @@
+python run_video_2.py --model=mobilenet_thin --video="D:\Notebooks\tf-pose-estimation-master\etcs\videos\2fer.wmv" --resize=432x368
